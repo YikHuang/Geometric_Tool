@@ -1,3 +1,4 @@
+### Setup
 - Install the required tools.
   1. We'll use a git to get libigl, which is a library our assignment relies on for handling geometry. After that, we'll use cmake along with a C++ compiler to put everything together.
   2. To set up C++ development on Windows, start by installing Visual Studio Community Edition. Then, within Visual Studio, go to Tools and select Get Tools and Features. From there, choose "Desktop Development with C++" and "Linux Development with C++". This will equip you with a C++ compiler and cmake, respectively.
